@@ -19,6 +19,6 @@ class Child(Person, Man):
     pass
 
 
-kid = Child('Johnny', '10', '123')
+kid = Child('Vishal', '29', '123')
 kid.output()
 kid.strong()
